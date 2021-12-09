@@ -1,0 +1,57 @@
+h1:hover{
+    color: black;
+}
+body{
+    background-image: url(birthday.jpeg);
+    display: block;
+    margin-top: 200px;
+    overflow: hidden;
+}
+h1{
+    font-size: 30px;
+    margin-top: 2rem;
+    color: rgb(26, 26, 26);
+    text-align: center;
+}
+img{
+    overflow: hidden;
+    margin-top:10px ;
+    width: 1190px;
+    height:50%;
+
+}
+input{
+    margin-top: -10rem;
+    position: relative;
+    left:33rem ;
+    padding: 1rem 3rem;
+    border-radius: 1rem;
+    font-size: 1rem;
+    background-color: rgb(219, 31, 31);
+    color: rgb(2, 1, 2);
+}
+button{
+    position:relative;
+    left: 21rem;
+    top: 4rem;
+    padding:0.5rem 2rem;
+    background-color: blanchedalmond;
+    font-size: 1 rem;
+    color: black;
+}
+p{
+    position:relative;
+    left:25rem;
+    top:4rem;
+    font-size:20px;
+    font-style: italic;
+}
+
+#output{
+    padding: 0.5rem;
+    text-align: center;
+    height:50px;
+    width:550px;
+    border:2px solid black;
+    border-radius: 0.5rem;
+}
