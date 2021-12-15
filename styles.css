@@ -3,6 +3,7 @@ h1:hover{
 }
 body{
     background-image: url(birthday.jpeg);
+    background-size: 100%;
     display: block;
     margin-top: 200px;
     overflow: hidden;
@@ -47,7 +48,7 @@ p{
     font-style: italic;
 }
 
-#output{
+#result{
     padding: 0.5rem;
     text-align: center;
     height:50px;
